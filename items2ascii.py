@@ -63,7 +63,7 @@ print(table_str)
 
 
 table_str += """
-When done, divide Final Score by 20 to get your result.
+When done, divide Final score by 20 to get your result.
 
 Openness (öppenhet) - att uppskatta konst, känslor, äventyr, ovanliga idéer, fantasi, nyfikenhet, och omväxlande erfarenheter. 
 Conscientiousness (samvetsgrannhet) - en tendens att vara självdisciplinerad, agera plikttroget, målinriktning; att planera snarare än att agera spontant. 
